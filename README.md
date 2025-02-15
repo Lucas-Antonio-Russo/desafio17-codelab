@@ -26,6 +26,6 @@ Confira o projeto funcionando aqui:
 <b> 🖼 Imagem do projeto </b> 
 
 <div>
-    <img src="https://i.imgur.com/bdA1vNk.jpeg" alt=" Desafio 17 - CodeLab - Imagem 2" width="500">
+     <img src="https://i.imgur.com/Eaai09H.jpeg" alt=" Desafio 17 - CodeLab - Imagem 1" width="500">
 </div>
 
