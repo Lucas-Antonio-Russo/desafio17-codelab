@@ -10,7 +10,7 @@ O desafio consistia em desenvolver uma interface utilizando HTML e CSS, focando 
 - ✔ Organização do layout com Flexbox
 - ✔ Estilização moderna e responsiva com CSS
 - ✔ Uso de Media Queries para adaptação a diferentes telas
--✔ Ajuste e manipulação de tamanhos de imagens para melhor apresentação
+- ✔ Ajuste e manipulação de tamanhos de imagens para melhor apresentação
 
 <b> 🛠️ Tecnologias utilizadas: </b>
 - ✔ HTML para a base estrutural
