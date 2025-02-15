@@ -1,6 +1,6 @@
 # ✔ Desafio 17 - CodeLab 🎨
 
-Fala, pessoal! Tudo certo?
+Fala, pessoal! Tudo certinho com vocês?
 Gostaria de compartilhar com vocês minha participação no Desafio 17 do CodeLab, proposto pelo Iuri Silva!
 
 # 📍 Descrição:
