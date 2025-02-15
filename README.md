@@ -3,7 +3,7 @@
 Fala, pessoal! Tudo certinho com vocês? </br>
 Gostaria de compartilhar com vocês minha participação no Desafio 17 do CodeLab, proposto pelo Iuri Silva!
 
-<b> 📍 Descrição: </b>
+<b> 📍 Descrição: </b> </br>
 O desafio consistia em desenvolver uma interface utilizando HTML e CSS, focando em estilização e responsividade. Durante o desenvolvimento, aprendi bastante sobre Flexbox, Media Queries e a manipulação dos tamanhos das imagens para melhor adaptação aos diferentes dispositivos.
 
 <b> 🔍 O que foi trabalhado? </b>
